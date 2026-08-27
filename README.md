@@ -48,5 +48,5 @@ python app.py
 - `requirements.txt` → List of required libraries
 
 ## Author Name
-Yashashree Ahirekar
+Joycee Khude.
 CodeAlpha Intern.
